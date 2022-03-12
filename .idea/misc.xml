@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../private/var/folders/hd/zbyfv7q132z7bjn47lwmppzr0000gn/T/drawable-temp/fake_of_play_pause.xml" value="0.2135" />
+        <entry key="app/src/main/res/drawable/anim_list.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/animate_droid.xml" value="0.167" />
+        <entry key="app/src/main/res/drawable/animated_battery.xml" value="0.102" />
+        <entry key="app/src/main/res/drawable/ic_baseline_battery.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_battery_0_bar_24.xml" value="0.1715" />
+        <entry key="app/src/main/res/drawable/ic_baseline_battery_1_bar_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_battery_4_bar_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_battery_full_24.xml" value="0.1715" />
+        <entry key="app/src/main/res/drawable/ic_droid.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/path_morph.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/pause_to_play.xml" value="0.2135" />
+        <entry key="app/src/main/res/drawable/play_pause.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/play_to_pause.xml" value="0.2135" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3269230769230769" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
